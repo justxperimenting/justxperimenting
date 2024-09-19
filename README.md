@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DSA,<br>Left handed,<br>I'm tech enthusiast,<br>
+I'm currently working on DSA,<br> Tech enthusiast</br>
 
 
 # 💻 Tech Stack:
